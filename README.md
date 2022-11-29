@@ -17,7 +17,6 @@ Customer {
 ```
 ## Practices and patterns (Must):
 
-- [TDD](https://docs.microsoft.com/en-us/visualstudio/test/quick-start-test-driven-development-with-test-explorer?view=vs-2022)
 - [Clean architecture](https://github.com/jasontaylordev/CleanArchitecture)
 - [Event sourcing](https://en.wikipedia.org/wiki/Domain-driven_design#Event_sourcing)
 - Clean git commits that shows your work progress.
@@ -40,4 +39,5 @@ Customer {
 - Please clone this repository in a new github repository, then create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (code review), then merge your own pull requests 
 
 ## Nice to do:
+- [TDD](https://docs.microsoft.com/en-us/visualstudio/test/quick-start-test-driven-development-with-test-explorer?view=vs-2022)
 - Docker-compose project that loads database service automatically which `docker-compose up`
