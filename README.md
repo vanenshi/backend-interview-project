@@ -18,7 +18,6 @@ Customer {
 ## Practices and patterns (Must):
 
 - [Clean architecture](https://github.com/jasontaylordev/CleanArchitecture)
-- [Event sourcing](https://en.wikipedia.org/wiki/Domain-driven_design#Event_sourcing)
 - Clean git commits that shows your work progress.
 
 ### Validations (Must)
