@@ -1,0 +1,51 @@
+C:\Projects\backend-interview-project\backend-interview-project\Application\bin\Debug\net6.0\Application.deps.json
+C:\Projects\backend-interview-project\backend-interview-project\Application\bin\Debug\net6.0\Application.dll
+C:\Projects\backend-interview-project\backend-interview-project\Application\bin\Debug\net6.0\Application.pdb
+C:\Projects\backend-interview-project\backend-interview-project\Application\bin\Debug\net6.0\Domain.dll
+C:\Projects\backend-interview-project\backend-interview-project\Application\bin\Debug\net6.0\Persistence.dll
+C:\Projects\backend-interview-project\backend-interview-project\Application\bin\Debug\net6.0\Persistence.pdb
+C:\Projects\backend-interview-project\backend-interview-project\Application\bin\Debug\net6.0\Domain.pdb
+C:\Projects\backend-interview-project\backend-interview-project\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Projects\backend-interview-project\backend-interview-project\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\backend-interview-project\backend-interview-project\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Projects\backend-interview-project\backend-interview-project\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Projects\backend-interview-project\backend-interview-project\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Projects\backend-interview-project\backend-interview-project\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Projects\backend-interview-project\backend-interview-project\Application\obj\Debug\net6.0\Application.dll
+C:\Projects\backend-interview-project\backend-interview-project\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Projects\backend-interview-project\backend-interview-project\Application\obj\Debug\net6.0\Application.pdb
+C:\Projects\backend-interview-project\backend-interview-project\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Projects\backend-interview-project\Application\bin\Debug\net6.0\Application.deps.json
+C:\Projects\backend-interview-project\Application\bin\Debug\net6.0\Application.dll
+C:\Projects\backend-interview-project\Application\bin\Debug\net6.0\Application.pdb
+C:\Projects\backend-interview-project\Application\bin\Debug\net6.0\Domain.dll
+C:\Projects\backend-interview-project\Application\bin\Debug\net6.0\Persistence.dll
+C:\Projects\backend-interview-project\Application\bin\Debug\net6.0\Persistence.pdb
+C:\Projects\backend-interview-project\Application\bin\Debug\net6.0\Domain.pdb
+C:\Projects\backend-interview-project\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Projects\backend-interview-project\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\backend-interview-project\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Projects\backend-interview-project\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Projects\backend-interview-project\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Projects\backend-interview-project\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Projects\backend-interview-project\Application\obj\Debug\net6.0\Application.dll
+C:\Projects\backend-interview-project\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Projects\backend-interview-project\Application\obj\Debug\net6.0\Application.pdb
+C:\Projects\backend-interview-project\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Projects\New folder\backend-interview-project\Application\bin\Debug\net6.0\Application.deps.json
+C:\Projects\New folder\backend-interview-project\Application\bin\Debug\net6.0\Application.dll
+C:\Projects\New folder\backend-interview-project\Application\bin\Debug\net6.0\Application.pdb
+C:\Projects\New folder\backend-interview-project\Application\bin\Debug\net6.0\Domain.dll
+C:\Projects\New folder\backend-interview-project\Application\bin\Debug\net6.0\Persistence.dll
+C:\Projects\New folder\backend-interview-project\Application\bin\Debug\net6.0\Persistence.pdb
+C:\Projects\New folder\backend-interview-project\Application\bin\Debug\net6.0\Domain.pdb
+C:\Projects\New folder\backend-interview-project\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Projects\New folder\backend-interview-project\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\New folder\backend-interview-project\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Projects\New folder\backend-interview-project\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Projects\New folder\backend-interview-project\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Projects\New folder\backend-interview-project\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Projects\New folder\backend-interview-project\Application\obj\Debug\net6.0\Application.dll
+C:\Projects\New folder\backend-interview-project\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Projects\New folder\backend-interview-project\Application\obj\Debug\net6.0\Application.pdb
+C:\Projects\New folder\backend-interview-project\Application\obj\Debug\net6.0\ref\Application.dll
