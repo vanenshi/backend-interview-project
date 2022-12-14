@@ -1,0 +1,51 @@
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Projects\backend-interview-project\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+C:\Projects\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Projects\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Projects\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Projects\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Projects\backend-interview-project\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Projects\backend-interview-project\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Projects\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Projects\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Projects\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Projects\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Projects\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Projects\backend-interview-project\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Projects\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Projects\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+C:\Projects\backend-interview-project\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Projects\New folder\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Projects\New folder\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Projects\New folder\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Projects\New folder\backend-interview-project\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Projects\New folder\backend-interview-project\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Projects\New folder\backend-interview-project\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Projects\New folder\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Projects\New folder\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\New folder\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Projects\New folder\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Projects\New folder\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Projects\New folder\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Projects\New folder\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Projects\New folder\backend-interview-project\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Projects\New folder\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Projects\New folder\backend-interview-project\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+C:\Projects\New folder\backend-interview-project\Persistence\obj\Debug\net6.0\ref\Persistence.dll
